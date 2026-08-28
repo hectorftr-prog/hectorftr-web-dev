@@ -17,4 +17,4 @@ _(en construcción — próximamente proyectos del IFCD0210: HTML/CSS/JavaScript
 
 ## Contacto
 
-- LinkedIn: [tu enlace aquí]
+- LinkedIn: https://www.linkedin.com/in/hectorfalero/
