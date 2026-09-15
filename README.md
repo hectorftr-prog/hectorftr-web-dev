@@ -4,12 +4,20 @@
 
 Profesional en transición hacia desarrollo web, tras más de 20 años de experiencia en gestión comercial, financiera y de equipos (banca, seguros, retail). Construyendo un perfil híbrido junto con ciberseguridad — ver mi [portfolio de ciberseguridad](https://github.com/hectorftr-prog/hectorftr-cybersecurity).
 
-## Formación
+## Formación en curso
 
-- 💻 **IFCD0210 — Desarrollo de Aplicaciones con Tecnologías Web** (Certificado de Profesionalidad Nivel 3, 590h + prácticas) — Liceo 2000, presencial — *próximamente*
-- ✅ Itinerario: Lenguajes de Programación Web (eFundae)
-- ✅ Nivel 3: Frontend (eFundae)
-- ✅ Nivel 3: Backend (eFundae)
+- 🔐 **Google Cybersecurity Professional Certificate** (Coursera, beca Google Scholarships) — en curso
+- 💻 **IFCD0210 — Desarrollo de Aplicaciones con Tecnologías Web** (Certificado de Profesionalidad Nivel 3, 590h + prácticas) — Liceo 2000, presencial
+
+## Certificaciones completadas
+
+- Google IT Support Professional Certificate (Google, Coursera) 
+- Foundations of Cybersecurity (Google, Coursera)
+- Itinerario: Lenguajes de Programación Web (eFundae)
+- Nivel 3: Frontend (eFundae)
+- Nivel 3: Business Analytics (eFundae)
+- EF SET English Certificate — C1 Advanced (66/100)
+- MF0952_2 — Publicación de Páginas Web (Módulo Oficial del MEFP / FP, 90h) 
 
 ## Proyectos
 
